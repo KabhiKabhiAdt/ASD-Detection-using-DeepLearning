@@ -17,3 +17,7 @@ Facial Dataset Models Accuracy:
 fMRI Dataset Models Accuracy:
 
         FNN-92%
+
+        
+
+        
