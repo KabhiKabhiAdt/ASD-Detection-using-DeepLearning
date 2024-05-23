@@ -19,6 +19,7 @@ fMRI Dataset Models Accuracy:
         FNN-92%
 
 Guided by: Prof.C.V.Dahat, RBU, Nagpur
+
 Research Mentor : Ms. Ankita Pandey 
 3rd year MBBS STUDENT,GMC Chandrapur        
 
