@@ -26,7 +26,7 @@ Research Mentor : Ms. Ankita Pandey
 Screenshots :
 
 <img width="1470" alt="Screenshot 2024-05-25 at 10 32 47 PM" src="https://github.com/KabhiKabhiAdt/ASD-Detection-using-DeepLearning/assets/115475163/8a41da81-ddb1-4485-a48e-7695f04995fb">
-       
-<img width="1470" alt="Screenshot 2024-05-25 at 10 34 01 PM" src="https://github.com/KabhiKabhiAdt/ASD-Detection-using-DeepLearning/assets/115475163/e47f50db-e25e-4d03-ab41-a97ad6dfb4b5">
+
+<img width="1470" alt="Screenshot 2024-05-25 at 10 38 19 PM" src="https://github.com/KabhiKabhiAdt/ASD-Detection-using-DeepLearning/assets/115475163/f8d20d16-f333-4891-8bbc-5f2758408183">
 
 <img width="1470" alt="Screenshot 2024-05-25 at 10 36 36 PM" src="https://github.com/KabhiKabhiAdt/ASD-Detection-using-DeepLearning/assets/115475163/9783634a-46c9-496f-9bf7-84f727391033">
